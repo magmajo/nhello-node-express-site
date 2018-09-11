@@ -31,7 +31,7 @@
 
 ### 버전관리
 
-> 링크 : [Webstorm 으로 GIT 쉽게 사용하기](http://wit.nts-corp.com/2017/04/12/4399)
+> 링크 : [Webstorm 으로 GIT 쉽게 사용하기](http://wit.nts-corp.com/2017/04/12/4399), [git command 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 
 
 
